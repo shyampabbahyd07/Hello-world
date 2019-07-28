@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Hi am from git");
+        System.out.println("Hi am from git 2");
     }
 }
